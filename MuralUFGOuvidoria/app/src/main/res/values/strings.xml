@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Mural UFG Ouvidoria</string>
     <string name="title_activity_ouvidoria">Ouvidoria</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
 </resources>
