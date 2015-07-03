@@ -1,5 +1,6 @@
 package br.ufg.inf.dsdm.mural.ouvidoria.activities;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.net.Uri;
@@ -28,7 +29,7 @@ import br.ufg.inf.dsdm.mural.ouvidoria.model.Mensagem;
 import br.ufg.inf.dsdm.mural.ouvidoria.services.OuvidoriaService;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
 
     private EditText mEditTextNome;
