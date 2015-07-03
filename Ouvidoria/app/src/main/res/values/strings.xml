@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ouvidoria</string>
+
+    <string name="action_settings">Opções</string>
+
+    <string name="text_subject">Assunto:</string>
+    <string name="text_message">Mensagem:</string>
+
+    <string name="text_request">Enviando...</string>
+
+    <string name="hint_subject">Assunto</string>
+    <string name="hint_message">Mensagem</string>
+
+    <string name="title_attachment_options_dialog">Anexo de imagem</string>
+
+    <string name="error_null_message">Campo mensagem ou assunto nulos!</string>
+    <string name="error_size_limit">O tamanho do anexo deve ser de no máximo 2MB!</string>
+    <string name="error_field">Preencha o campo Nome ou envie como ânonimo</string>
+
+    <string name="message_sent">Sua mensagem foi enviada com sucesso!</string>
+    
+    <string-array name="attachment_options_array">
+        <item>Câmera</item>
+        <item>Galeria</item>
+    </string-array>
+
+    <string-array name="subject_options_array">
+        <item>Elogio</item>
+        <item>Sugestão</item>
+        <item>Informação</item>
+        <item>Reclamação</item>
+        <item>Denúncia</item>
+    </string-array>
+</resources>
